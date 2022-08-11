@@ -23,4 +23,4 @@ https://ikscs.in.ua/install/cctv
 *	Используется html5 блочная структура, фреймворк bootstrap4
 
 ## Язык программирования 
-> JavaSсript
+> JavaSсript, Python
