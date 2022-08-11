@@ -24,3 +24,5 @@ https://ikscs.in.ua/install/cctv
 
 ## Язык программирования 
 > JavaSсript, Python
+
+
